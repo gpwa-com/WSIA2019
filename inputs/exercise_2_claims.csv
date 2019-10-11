@@ -1,11 +1,11 @@
 ﻿policy,type,claim
-1,Manufacturing Defect," 45,692 "
-1,Design Defect," 249,871 "
-2,Manufacturing Defect," 195,192 "
-2,Manufacturing Defect," 98,596 "
-2,Design Defect," 529,816 "
-2,Marketing Defect," 174,450 "
-3,Marketing Defect," 452,276 "
-4,Design Defect," 251,113 "
-4,Design Defect," 620,587 "
-4,Marketing Defect," 387,841 "
+1,Manufacturing Defect,45692
+1,Design Defect,249871
+2,Manufacturing Defect,195192
+2,Manufacturing Defect,98596
+2,Design Defect,529816
+2,Marketing Defect,174450
+3,Marketing Defect,452276
+4,Design Defect,251113
+4,Design Defect,620587
+4,Marketing Defect,387841
